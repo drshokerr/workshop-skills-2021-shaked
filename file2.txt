@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-create from master
-=======
-add from b2
->>>>>>> commit b2-1
